@@ -1,4 +1,6 @@
-# CapStone Projet
+# Cap Stone Project  
+### Abderaouf kouhoul
+
 
 ## Neural Networks applied to the placement of digital cells
 
