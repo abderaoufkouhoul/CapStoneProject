@@ -12,7 +12,7 @@ The main driven motivations for exploring the use of ML/AI algorithm in the doma
 
 Our focus is on the use of Neural Networks in the field of the placement of digital cells. Throughout literature review, we came across important research works where the placement of digital cells was evaluated as a non-linear optimization problem. More details on the modelling of this problematic with Neural Network is provided in the file available on :
 
-https://github.com/abderaoufkouhoul/CapstoneProject_part1/blob/main/data/capstone_project.pdf
+https://github.com/abderaoufkouhoul/CapStoneProject/blob/main/data/capstone_project.pdf
 
 # Main Findings
   1. Neural Networks are powerful tools for solving mathematical optimization problems.
@@ -21,4 +21,4 @@ https://github.com/abderaoufkouhoul/CapstoneProject_part1/blob/main/data/capston
 
 The Python Notebook is accessible on :
 
-https://github.com/abderaoufkouhoul/CapstoneProject_part1/blob/main/capstone_project.ipynb
+https://github.com/abderaoufkouhoul/CapStoneProject/blob/main/data/capstone_project.ipynb
